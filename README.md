@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Repo List.\
-<img src="https://img.shields.io/github/checks-status/twchong831/basic_study/main?label=basic_study"/>
-<img src="https://img.shields.io/github/checks-status/twchong831/image_detection/main?label=image_detection"/>
-<img src="https://img.shields.io/github/checks-status/twchong831/LiDAR/main?label=LiDAR"/>
+<img src="https://img.shields.io/github/checks-status/twchong831/basic_study/main?color=blue&label=basic_study&style=for-the-badge"/>
+<img src="https://img.shields.io/github/checks-status/twchong831/image_detection/main?label=image_detection&style=for-the-badge"/>
+<img src="https://img.shields.io/github/checks-status/twchong831/LiDAR/main?color=red&label=LiDAR&style=for-the-badge"/>
 
 Code\
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
