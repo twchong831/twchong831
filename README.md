@@ -42,3 +42,5 @@ STUDYING...\
 
 ![twchong831's GitHub stats](https://github-readme-stats.vercel.app/api?username=twchong831&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twchong831&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
