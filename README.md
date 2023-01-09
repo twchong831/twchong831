@@ -1,13 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thanks%20to%20visit%20my%20github%20👍&fontSize=50&fontColor=FFFFFF&animation=scaleIn)
+
+👍
 - 👋 Hi, I’m @twchong831
 - 👀 I’m interested in Qt, LiDAR, camera
 - 🌱 I’m currently learning C++
 
-[homepage](https://sites.google.com/view/twchong/total)
+📧 choungtw@gmail.com
 
-<!---
-twchong831/twchong831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[🔗homepage](https://sites.google.com/view/twchong/total)
 
 Repo List.\
 <img src="https://img.shields.io/github/checks-status/twchong831/basic_study/main?color=blue&label=basic_study&style=for-the-badge"/>
