@@ -5,10 +5,6 @@
 - 👀 I’m interested in Qt, LiDAR, camera
 - 🌱 I’m currently learning C++
 
-📧 choungtw@gmail.com
-
-[🔗homepage](https://sites.google.com/view/twchong/total)
-
 Repo List.\
 <img src="https://img.shields.io/github/checks-status/twchong831/basic_study/main?color=blue&label=basic_study&style=for-the-badge"/>
 <img src="https://img.shields.io/github/checks-status/twchong831/image_detection/main?label=image_detection&style=for-the-badge"/>
