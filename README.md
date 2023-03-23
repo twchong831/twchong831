@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thanks%20to%20visit%20my%20github%20👍&fontSize=50&fontColor=FFFFFF&animation=scaleIn)
 
+- 잘은 못하지만 이것저것 해보는 개발자 👨‍💻
+
 ## Repo List
 \
 <img src="https://img.shields.io/github/checks-status/twchong831/basic_study/main?color=blue&label=basic_study&style=for-the-badge"/>
